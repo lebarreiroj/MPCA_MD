@@ -4,3 +4,4 @@ data
 dados/
 dados
 dados/*.csv
+.ipynb_checkpoints*

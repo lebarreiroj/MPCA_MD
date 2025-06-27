@@ -1,0 +1,20 @@
+# Dados (ignorar qualquer pasta com nome "data" ou "dados")
+data/
+data/*
+dados/
+dados/*
+
+# Arquivos ocultos e temporários
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# CSVs grandes
+*.csv
+*.arff
+
+# Arquivos específicos (caso você queira permitir alguns, use !nome.csv depois)
+
+# Outros exemplos úteis:
+*.tmp
+*.log
